@@ -1,0 +1,26 @@
+ [
+    {
+        "nombre": "Maria",
+        "apellido": "Campos",
+        "nota": {
+            "convocatoria": "EVA1",
+            "text": "8.3"
+        }
+    },
+    {
+        "nombre": "Jose",
+        "apellido": "Garcia",
+        "nota": {
+            "convocatoria": " EVA1",
+            "text": "6.7"
+        }
+    },
+    {
+        "nombre": "Marcos",
+        "apellido": "Galvez",
+                "nota": {
+            "convocatoria": " EVA1",
+            "text": "3.5"
+        }
+    }
+]

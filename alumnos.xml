@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+    <alumnos>
+        <alumno>
+            <nombre>Maria</nombre>
+            <apellido>Campos</apellido>
+            <nota convocatoria="EVA1">8.3</nota>
+        </alumno>
+        <alumno>
+            <nombre>Jose</nombre>
+            <apellido>Garcia</apellido>
+            <nota convocatoria=" EVA1">6.7</nota>
+        </alumno>
+        <alumno>
+            <nombre>Marcos</nombre>
+            <apellido>Galvez</apellido>
+            <nota convocatoria=" EVA1">3.5</nota>
+        </alumno>
+    </alumnos>

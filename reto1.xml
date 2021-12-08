@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contenedores>
+    <contenedoresGrandes>
+        <grandeAncho>
+            <producto>Agua</producto>
+            <producto>Leche</producto>
+            <producto>Aceite</producto>
+            <producto>Vinagre</producto>  
+        </grandeAncho>
+        <grandeAlto>
+            <producto>Agua</producto>
+            <producto>Leche</producto>
+            <producto>Aceite</producto>
+            <producto>Vinagre</producto> 
+        </grandeAlto>
+    </contenedoresGrandes>
+    <contenedoresMediano>
+        <medianooAncho>
+            <producto>Agua</producto>
+            <producto>Leche</producto>
+            <producto>Aceite</producto>
+            <producto>Vinagre</producto>  
+        </medianooAncho>
+        <medianooAlto>
+            <producto>Lejía</producto>
+            <producto>Amoniaco</producto>
+            <producto>Jabón</producto>
+            <producto>Aguarras</producto>
+            <producto>Gasolina</producto>
+            <producto>Alcohol</producto> 
+        </medianooAlto>
+    </contenedoresMediano>
+    <contenedoresPequenio>
+            <producto>Lejía</producto>
+            <producto>Amoniaco</producto>
+            <producto>Jabón</producto>
+            <producto>Aguarras</producto>
+            <producto>Gasolina</producto>
+            <producto>Alcohol</producto> 
+    </contenedoresPequenio>
+</contenedores>
